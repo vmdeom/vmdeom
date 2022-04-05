@@ -1,7 +1,7 @@
 ## Hello there!
 
-Computing Degree and Game Design student.
-Almost graduated in Systems Analysis and Development.
+Game Design student.
+Graduated in Systems Analysis and Development.
 Aspiring to be a game developer;
 
 Mostly I make games in Unity3D and UPBGE.
