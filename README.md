@@ -2,7 +2,7 @@
 
 ### Sobre mim 🧔🏻
 Olá, meu nome é Vitor, sou formado em Análise e Desenvolvimento de Sistemas\
-Atualmente estou cursando três espedcializações:
+Atualmente estou cursando três especializações:
 
 - 🌎 Desenvolvimento de Aplicações Web
 - 🕹️ Desenvolvimento de Jogos Digitais
@@ -21,10 +21,10 @@ Atualmente estou cursando três espedcializações:
 ---
 ### 🖌️ Paixões e Hobbies
 
-- 🎮 Video-game
+- 🎮 Vídeogame
 - 🎼 Música
 - 🎨 Artes(Pintura, desenho, escultura, artesanato)
-- ⚒️ Projeos de marcenaria, serralheria e alvenaria
+- ⚒️ Projetos de marcenaria, serralheria e alvenaria
 - 🪴 Jardinagem
 - 🖼️ Design criativo
 
