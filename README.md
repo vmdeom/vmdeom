@@ -16,7 +16,7 @@ Atualmente estou cursando três especializações:
 ### 📌 Projetos em Destaque
 
 [![auth-system-node](https://github-readme-stats.vercel.app/api/pin/?username=vmdeom&repo=auth-system-node)](https://github.com/vmdeom/auth-system-node)\
-[![python-crud](https://github-readme-stats.vercel.app/api/pin/?username=vmdeom&repo=python-crud)](https://github.com/vmdeom/python-crud)
+[![exutasbot-twitch-tools](https://github-readme-stats.vercel.app/api/pin/?username=vmdeom&repo=exutasbot-twitch-tools)](https://github.com/vmdeom/exutasbot-twitch-tools)
 
 ---
 ### 🖌️ Paixões e Hobbies
