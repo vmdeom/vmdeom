@@ -1,14 +1,7 @@
 # VMDEOM
-
-# Migrando todos os projetos para Python
  
 ### Sobre mim 🧔🏻
-Olá, meu nome é Vitor, sou formado em Análise e Desenvolvimento de Sistemas\
-Atualmente estou cursando três especializações:
-
-- 🌎 Desenvolvimento de Aplicações Web
-- 🕹️ Desenvolvimento de Jogos Digitais
-- 🧠 Inteligência Artificial
+Olá, meu nome é Vitor, sou formado em Análise e Desenvolvimento de Sistemas
 
 ---
 ### ⌨️ Linguagens mais usadas
@@ -32,4 +25,4 @@ Atualmente estou cursando três especializações:
 
 ---
 ### Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mourão-81b666280//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mour%C3%A3o-606111325/)
