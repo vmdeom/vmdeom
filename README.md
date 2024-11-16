@@ -10,7 +10,7 @@ Olá, meu nome é Vitor, sou formado em Análise e Desenvolvimento de Sistemas
 ---
 ### 📌 Projetos em Destaque
 
-[![auth-system-node](https://github-readme-stats.vercel.app/api/pin/?username=vmdeom&repo=auth-system-node)](https://github.com/vmdeom/auth-system-node)\
+[![pyDeck](https://github-readme-stats.vercel.app/api/pin/?username=vmdeom&repo=pyDeck)](https://github.com/vmdeom/pyDeck)\
 [![xutasBot](https://github-readme-stats.vercel.app/api/pin/?username=vmdeom&repo=xutasBot)](https://github.com/vmdeom/xutasBot)
 
 ---
